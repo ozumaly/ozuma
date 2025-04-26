@@ -246,7 +246,7 @@ export default function NativeAppService() {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.5 }}
                   >
-                    {!gameStarted && "uff"}
+                    {!gameStarted && "Tic-tac-toe "}
                     {gameStarted && !winner && (isXNext ? "Your Turn" : "AI Thinking...")}
                     {winner === 'X' && "You Win! 🎉"}
                     {winner === 'O' && "AI Wins! 🤖"}
