@@ -266,17 +266,6 @@ export default function WebAppService() {
                 <span className="text-xs">Desktop</span>
               </motion.div>
 
-              <motion.div
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.95 }}
-                onClick={() => setViewMode("code")}
-                className={`flex items-center space-x-1 cursor-pointer ${
-                  viewMode === "code" ? "text-primary" : "text-gray-400 hover:text-primary"
-                }`}
-              >
-                <RiCodeSSlashLine size={14} />
-                <span className="text-xs">Code</span>
-              </motion.div>
             </div>
           </div>
 
