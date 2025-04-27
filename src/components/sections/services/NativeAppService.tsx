@@ -430,9 +430,7 @@ export default function NativeAppService() {
           <div className="bg-black/20 rounded-lg p-3">
             <h4 className="text-sm text-foreground font-medium mb-1">Technologies Used</h4>
             <div className="flex flex-wrap gap-2 mt-2">
-              <span className="px-2 py-1 bg-primary/20 text-primary text-xs rounded">Swift</span>
-              <span className="px-2 py-1 bg-primary/20 text-primary text-xs rounded">Kotlin</span>
-              <span className="px-2 py-1 bg-primary/20 text-primary text-xs rounded">React Native</span>
+             <span className="px-2 py-1 bg-primary/20 text-primary text-xs rounded">React Native</span>
               <span className="px-2 py-1 bg-primary/20 text-primary text-xs rounded">Firebase</span>
             </div>
           </div>
