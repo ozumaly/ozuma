@@ -43,7 +43,6 @@ const technologies: Technology[] = [
   { id: "css", name: "CSS3", icon: SiCss3, proficiency: 4, category: "frontend", years: 5 },
   { id: "nodejs", name: "Node.js", icon: SiNodedotjs, proficiency: 4, category: "backend", years: 3 },
   { id: "mongodb", name: "MongoDB", icon: SiMongodb, proficiency: 3, category: "backend", years: 2 },
-  { id: "python", name: "Python", icon: SiPython, proficiency: 3, category: "backend", years: 2 },
   { id: "git", name: "Git", icon: SiGit, proficiency: 4, category: "devops", years: 4 },
   { id: "docker", name: "Docker", icon: SiDocker, proficiency: 3, category: "devops", years: 2 },
   { id: "aws", name: "AWS", icon: SiAmazon, proficiency: 3, category: "devops", years: 2 },
