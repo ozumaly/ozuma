@@ -15,9 +15,9 @@ export default function HireMe() {
 
   // Contact options - Priyanshu's actual info
   const contactOptions = [
-    { id: "discord", label: "Discord", icon: FaDiscord, url: "https://discordapp.com/users/931059762173464597", color: "from-indigo-500 to-purple-600", detail: "br4d777" },
-    { id: "github", label: "GitHub", icon: FaGithub, url: "https://github.com/bre4d77", color: "from-gray-700 to-gray-900", detail: "bre4d77" },
-    { id: "email", label: "Email", icon: FaEnvelope, url: "mailto:Priyanshu.uwu.u@gmail.com", color: "from-red-400 to-pink-600", detail: "Priyanshu.uwu.u@gmail.com" },
+    { id: "discord", label: "Discord", icon: FaDiscord, url: "https://discordapp.com/users/504232260548165633", color: "from-indigo-500 to-purple-600", detail: "9vxk" },
+    { id: "github", label: "GitHub", icon: FaGithub, url: "https://github.com/ozumaly", color: "from-gray-700 to-gray-900", detail: "9vxk" },
+    { id: "email", label: "Email", icon: FaEnvelope, url: "mailto:Ozumaxd079@gmail.com", color: "from-red-400 to-pink-600", detail: "Ozumaxd079@gmail.com" },
   ];
 
   useEffect(() => {
