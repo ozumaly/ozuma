@@ -66,7 +66,7 @@ export default function Navbar() {
                   ease: "easeInOut"
                 }}
               />
-              <span className="font-mono">Priyanshu</span>
+              <span className="font-mono">Ozuma</span>
             </div>
           </Link>
 
